@@ -1,0 +1,2 @@
+# Keluar dari PostgreSQL
+exit

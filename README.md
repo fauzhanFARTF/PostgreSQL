@@ -6,7 +6,5 @@ This Course About PostgreSQL
 
 ![Maintainer](https://img.shields.io/badge/Channel-Programmer_Zaman_Now-white)
 <br>
-![Maintainer](https://img.shields.io/badge/Channel-Geocourse-white)
-<br>
 
 Only Scripts, Enjoy it 
